@@ -16,8 +16,9 @@ function myFunction() {
 
 //slideshow
 $.backstretch([
-   "images/beach.jpg", 
-   "images/beach2.jpg",
-   "images/beach3.jpg",
-   "images/beach4.jpg"
+   "images/alaska.jpeg", 
+   "images/greece-beach-zante.jpeg",
+   "images/aurora-Iceland.jpeg",
+   "images/japan.jpeg",
+   "images/banff.jpeg"
  ], {duration: 1500, transition: "fade", transitionDuration: 1500, animateFirst: false});
