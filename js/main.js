@@ -10,3 +10,14 @@ function myFunction() {
   }
   document.getElementById("list").innerHTML = places;
 }
+
+
+
+
+//slideshow
+$.backstretch([
+   "images/beach.jpg", 
+   "images/beach2.jpg",
+   "images/beach3.jpg",
+   "images/beach4.jpg"
+ ], {duration: 3000, transition: "fade", transitionDuration: 2000, animateFirst: false});
