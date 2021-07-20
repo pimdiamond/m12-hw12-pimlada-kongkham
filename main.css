@@ -1,14 +1,15 @@
 
 main {
 	width: 40%;
-	background-color: rgb(255, 255, 255);
+	background: rgb(245 241 241 / 43%);
 	margin: auto;
     padding: 1% 46px 10px 5%;
     margin-top: 10%;
 }
 
 h1, h2, p {
-   color: #168b95;
+   color:  #4a343c;
+   
 
 }
 
