@@ -20,4 +20,4 @@ $.backstretch([
    "images/beach2.jpg",
    "images/beach3.jpg",
    "images/beach4.jpg"
- ], {duration: 3000, transition: "fade", transitionDuration: 2000, animateFirst: false});
+ ], {duration: 1500, transition: "fade", transitionDuration: 1500, animateFirst: false});

@@ -1,7 +1,7 @@
 
 main {
 	width: 40%;
-	background-color: gray;
+	background-color: rgb(255, 255, 255);
 	margin: auto;
     padding: 1% 46px 10px 5%;
     margin-top: 10%;
@@ -21,7 +21,8 @@ button {
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 0.125rem;
-	border: 0.125rem solid #168b95;
+	border: 0.1rem solid #168b95;
 	color: white;
     background-color: #168b95;
+    border-radius: 0.27rem;
 }
