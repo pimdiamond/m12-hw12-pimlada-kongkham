@@ -6,3 +6,22 @@ main {
     padding: 1% 46px 10px 5%;
     margin-top: 10%;
 }
+
+h1, h2, p {
+   color: #168b95;
+
+}
+
+
+button {
+	width: 60%;
+	margin: 4% auto 0 auto;
+    padding: 2% 1%;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 0.125rem;
+	border: 0.125rem solid #168b95;
+	color: white;
+    background-color: #168b95;
+}
