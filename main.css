@@ -7,11 +7,22 @@ main {
     margin-top: 10%;
 }
 
-h1, h2, p {
-   color:  #4a343c;
-   
-
+h1 {
+   color: #4a343c;
+   font-family: 'Schoolbell', cursive;
 }
+
+h2 {
+    color: #4a343c;
+    font-size: 1.2rem;
+    font-family: 'Tajawal', sans-serif;
+ }
+
+p {
+    color:  #8a162b;
+
+    font-family: 'Tajawal', sans-serif;
+ }
 
 
 button {
@@ -22,8 +33,8 @@ button {
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 0.125rem;
-	border: 0.1rem solid #168b95;
+	border: 0.1rem solid #8a162b;
 	color: white;
-    background-color: #168b95;
+    background-color: #8a162b;
     border-radius: 0.27rem;
 }
